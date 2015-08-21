@@ -5,9 +5,11 @@ using System.Linq;
 using System.Net;
 using System.Runtime.InteropServices.WindowsRuntime;
 using System.Threading.Tasks;
+using Windows.Data.Xml;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Core;
+using Windows.UI.Notifications;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -45,8 +47,21 @@ namespace IP
             await Dispatcher.RunAsync(CoreDispatcherPriority.Normal, () =>
             {
                 StreamReader stream = new StreamReader(response.GetResponseStream());
-                textBox.Text = stream.ReadToEnd();
+                var ip = stream.ReadToEnd();
+                textBox.Text = ip;
+                UpdateTile(ip);
             });           
+        }
+
+        private static void UpdateTile(string infoString)
+        {
+            var updater = TileUpdateManager.CreateTileUpdaterForApplication();
+            updater.EnableNotificationQueue(true);
+            updater.Clear();
+            Windows.Data.Xml.Dom.XmlDocument tileXml = TileUpdateManager.GetTemplateContent(TileTemplateType.TileWide310x150Text05);            
+            tileXml.GetElementsByTagName("text")[0].InnerText = infoString;
+            updater.Update(new TileNotification(tileXml));
+
         }
     }
 }
