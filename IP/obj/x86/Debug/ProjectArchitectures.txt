@@ -1,0 +1,2 @@
+C:\Users\Carlos\Documents\Repositories\IP\BackgroundTasks\BackgroundTasks.csproj;x86
+C:\Users\Carlos\Documents\Repositories\IP\IP\IP.csproj;x86
