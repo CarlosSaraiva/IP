@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="5a4f9933-1e0e-4327-b6ba-69835bcd26d9" Publisher="CN=Carlos" Version="1.0.0.0" ProcessorArchitecture="x86" />
-  <mp:PhoneIdentity PhoneProductId="5a4f9933-1e0e-4327-b6ba-69835bcd26d9" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="0266f63c-2e20-4c0f-a6dc-a98b704556fe" Publisher="CN=Carlos" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <mp:PhoneIdentity PhoneProductId="0266f63c-2e20-4c0f-a6dc-a98b704556fe" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>IP</DisplayName>
-    <PublisherDisplayName>Carlos</PublisherDisplayName>
+    <PublisherDisplayName>Suporte</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -29,9 +29,10 @@
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
       </uap:VisualElements>
       <Extensions>
-        <Extension Category="windows.backgroundTasks" EntryPoint="BackgroundTasks.TileUpdaterTask">
+        <Extension Category="windows.backgroundTasks" EntryPoint="BackgroundTasks.TileUpdateTask">
           <BackgroundTasks>
             <Task Type="timer" />
+            <uap:Task Type="chatMessageNotification" />
           </BackgroundTasks>
         </Extension>
       </Extensions>

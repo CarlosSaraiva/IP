@@ -1,514 +1,514 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>MARVIN</Machine>
-    <WindowsUser>Carlos</WindowsUser>
+    <Machine>SUPORTE1-PC</Machine>
+    <WindowsUser>Suporte</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>5a4f9933-1e0e-4327-b6ba-69835bcd26d9</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Carlos\Documents\Repositories\IP\IP\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>2CC79D2CD1B3620C2901CC8A1557B2CF83D8649A2E5605ABF16CE67B02BC4320</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>5a4f9933-1e0e-4327-b6ba-69835bcd26d9_1.0.0.0_x86__de940eb8crkaa</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>5a4f9933-1e0e-4327-b6ba-69835bcd26d9_de940eb8crkaa!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>5a4f9933-1e0e-4327-b6ba-69835bcd26d9</RegisteredPackageID>
+    <PackageIdentityName>0266f63c-2e20-4c0f-a6dc-a98b704556fe</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Suporte\Documents\repositories\IP\IP\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DB43D7254836DDB1DC1CDF7D0EA1B17A001FD73617189CEFE23985FD77E784B9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0266f63c-2e20-4c0f-a6dc-a98b704556fe_1.0.0.0_x86__de940eb8crkaa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0266f63c-2e20-4c0f-a6dc-a98b704556fe_de940eb8crkaa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0266f63c-2e20-4c0f-a6dc-a98b704556fe</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Carlos</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-08-22T02:56:20.002</Modified>
+      <Modified>2015-09-01T18:48:04.981</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
-      <Modified>2015-08-22T02:46:20.593</Modified>
+      <Modified>2015-08-21T15:51:49.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-06-05T01:32:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <Modified>2015-06-05T01:32:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <Modified>2015-06-05T01:32:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <Modified>2015-06-05T01:32:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <Modified>2015-06-05T01:32:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <Modified>2015-06-05T01:32:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <Modified>2015-06-05T01:32:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\BackgroundTasks.winmd">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\BackgroundTasks.winmd">
       <PackagePath>BackgroundTasks.winmd</PackagePath>
-      <Modified>2015-08-22T02:54:00.997</Modified>
+      <Modified>2015-09-01T17:47:43.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\ClrCompression.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\ClrCompression.dll">
       <PackagePath>ClrCompression.dll</PackagePath>
-      <Modified>2015-08-14T00:41:29.539</Modified>
+      <Modified>2015-08-21T13:56:09.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\entrypoint\IP.exe">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\entrypoint\IP.exe">
       <PackagePath>entrypoint\IP.exe</PackagePath>
-      <Modified>2015-08-22T02:56:11.951</Modified>
+      <Modified>2015-09-01T18:48:04.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\IP.exe">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\IP.exe">
       <PackagePath>IP.exe</PackagePath>
-      <Modified>2015-08-22T02:56:19.997</Modified>
+      <Modified>2015-09-01T18:48:04.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\IP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\IP.xr.xml">
       <PackagePath>IP.xr.xml</PackagePath>
-      <Modified>2015-08-22T02:50:42.172</Modified>
+      <Modified>2015-09-01T18:18:00.508</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
-      <Modified>2015-08-14T00:40:09.595</Modified>
+      <Modified>2015-08-21T13:55:39.374</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
       <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
-      <Modified>2015-08-14T00:40:10.103</Modified>
+      <Modified>2015-08-21T13:55:39.765</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
       <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
-      <Modified>2015-08-14T00:40:09.975</Modified>
+      <Modified>2015-08-21T13:55:39.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
-      <Modified>2015-08-14T00:40:23.000</Modified>
+      <Modified>2015-08-21T13:55:47.473</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
-      <Modified>2015-08-14T00:40:23.439</Modified>
+      <Modified>2015-08-21T13:55:47.113</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
-      <Modified>2015-08-14T00:40:19.201</Modified>
+      <Modified>2015-08-21T13:55:44.456</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2015-08-22T02:45:54.666</Modified>
+      <Modified>2015-09-01T17:29:53.935</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-08-22T02:56:13.183</Modified>
+      <Modified>2015-09-01T18:25:31.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.AppContext.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.339</Modified>
+      <Modified>2015-08-21T13:55:46.473</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
       <PackagePath>System.Collections.Concurrent.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.929</Modified>
+      <Modified>2015-08-21T13:55:47.285</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Collections.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Collections.dll">
       <PackagePath>System.Collections.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.949</Modified>
+      <Modified>2015-08-21T13:55:47.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Collections.Immutable.dll">
       <PackagePath>System.Collections.Immutable.dll</PackagePath>
-      <Modified>2015-08-14T00:40:24.088</Modified>
+      <Modified>2015-08-21T13:55:47.941</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
       <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.347</Modified>
+      <Modified>2015-08-21T13:55:46.473</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
-      <Modified>2015-08-14T00:40:20.767</Modified>
+      <Modified>2015-08-21T13:55:44.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
-      <Modified>2015-08-14T00:40:23.209</Modified>
+      <Modified>2015-08-21T13:55:48.035</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
       <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.357</Modified>
+      <Modified>2015-08-21T13:55:44.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ComponentModel.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
-      <Modified>2015-08-14T00:40:23.865</Modified>
+      <Modified>2015-08-21T13:55:47.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
-      <Modified>2015-08-14T00:40:19.567</Modified>
+      <Modified>2015-08-21T13:55:42.040</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Core.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Core.dll">
       <PackagePath>System.Core.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.359</Modified>
+      <Modified>2015-08-21T13:55:44.424</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Data.Common.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Data.Common.dll">
       <PackagePath>System.Data.Common.dll</PackagePath>
-      <Modified>2015-08-14T00:40:19.626</Modified>
+      <Modified>2015-08-21T13:55:42.040</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
       <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
-      <Modified>2015-08-14T00:40:19.475</Modified>
+      <Modified>2015-08-21T13:55:44.487</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
       <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.965</Modified>
+      <Modified>2015-08-21T13:55:47.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
       <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
-      <Modified>2015-08-14T00:40:20.762</Modified>
+      <Modified>2015-08-21T13:55:44.456</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
       <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
-      <Modified>2015-08-14T00:40:55.191</Modified>
+      <Modified>2015-08-21T13:55:47.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
       <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
-      <Modified>2015-08-14T00:40:23.856</Modified>
+      <Modified>2015-08-21T13:55:47.582</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.dll">
       <PackagePath>System.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.361</Modified>
+      <Modified>2015-08-21T13:55:44.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
       <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.959</Modified>
+      <Modified>2015-08-21T13:55:49.085</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
       <PackagePath>System.Globalization.Calendars.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.567</Modified>
+      <Modified>2015-08-21T13:55:48.332</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Globalization.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Globalization.dll">
       <PackagePath>System.Globalization.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.568</Modified>
+      <Modified>2015-08-21T13:55:47.645</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
       <PackagePath>System.Globalization.Extensions.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.964</Modified>
+      <Modified>2015-08-21T13:55:47.473</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.IO.Compression.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.IO.Compression.dll">
       <PackagePath>System.IO.Compression.dll</PackagePath>
-      <Modified>2015-08-14T00:40:55.572</Modified>
+      <Modified>2015-08-21T13:55:49.335</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
       <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
-      <Modified>2015-08-14T00:40:55.188</Modified>
+      <Modified>2015-08-21T13:55:49.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.IO.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.IO.dll">
       <PackagePath>System.IO.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.962</Modified>
+      <Modified>2015-08-21T13:55:49.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.IO.FileSystem.dll">
       <PackagePath>System.IO.FileSystem.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.963</Modified>
+      <Modified>2015-08-21T13:55:48.460</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
       <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.966</Modified>
+      <Modified>2015-08-21T13:55:47.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
-      <Modified>2015-08-14T00:40:20.757</Modified>
+      <Modified>2015-08-21T13:55:44.424</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
-      <Modified>2015-08-14T00:40:54.969</Modified>
+      <Modified>2015-08-21T13:55:49.085</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Linq.dll">
       <PackagePath>System.Linq.dll</PackagePath>
-      <Modified>2015-08-14T00:40:55.193</Modified>
+      <Modified>2015-08-21T13:55:49.475</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Linq.Expressions.dll">
       <PackagePath>System.Linq.Expressions.dll</PackagePath>
-      <Modified>2015-08-14T00:41:00.186</Modified>
+      <Modified>2015-08-21T13:55:49.975</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Linq.Parallel.dll">
       <PackagePath>System.Linq.Parallel.dll</PackagePath>
-      <Modified>2015-08-14T00:41:00.183</Modified>
+      <Modified>2015-08-21T13:55:50.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Linq.Queryable.dll">
       <PackagePath>System.Linq.Queryable.dll</PackagePath>
-      <Modified>2015-08-14T00:40:57.654</Modified>
+      <Modified>2015-08-21T13:55:51.033</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Net.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Net.dll">
       <PackagePath>System.Net.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.365</Modified>
+      <Modified>2015-08-21T13:55:44.487</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Net.Http.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Net.Http.dll">
       <PackagePath>System.Net.Http.dll</PackagePath>
-      <Modified>2015-08-14T00:40:59.063</Modified>
+      <Modified>2015-08-21T13:55:55.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
       <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
-      <Modified>2015-08-14T00:40:20.755</Modified>
+      <Modified>2015-08-21T13:55:44.456</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
-      <Modified>2015-08-14T00:40:57.015</Modified>
+      <Modified>2015-08-21T13:55:50.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Net.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Net.Primitives.dll">
       <PackagePath>System.Net.Primitives.dll</PackagePath>
-      <Modified>2015-08-14T00:40:57.523</Modified>
+      <Modified>2015-08-21T13:55:51.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Net.Requests.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Net.Requests.dll">
       <PackagePath>System.Net.Requests.dll</PackagePath>
-      <Modified>2015-08-14T00:40:20.756</Modified>
+      <Modified>2015-08-21T13:55:44.534</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Net.Sockets.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Net.Sockets.dll">
       <PackagePath>System.Net.Sockets.dll</PackagePath>
-      <Modified>2015-08-14T00:40:19.813</Modified>
+      <Modified>2015-08-21T13:55:44.908</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
-      <Modified>2015-08-14T00:40:20.756</Modified>
+      <Modified>2015-08-21T13:55:45.064</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Numerics.dll">
       <PackagePath>System.Numerics.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.368</Modified>
+      <Modified>2015-08-21T13:55:44.502</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
-      <Modified>2015-08-14T00:40:57.142</Modified>
+      <Modified>2015-08-21T13:55:49.866</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
       <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
-      <Modified>2015-08-14T00:40:20.502</Modified>
+      <Modified>2015-08-21T13:55:45.471</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ObjectModel.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ObjectModel.dll">
       <PackagePath>System.ObjectModel.dll</PackagePath>
-      <Modified>2015-08-14T00:40:57.113</Modified>
+      <Modified>2015-08-21T13:55:50.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
       <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
-      <Modified>2015-08-14T00:40:20.819</Modified>
+      <Modified>2015-08-21T13:55:45.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Private.Networking.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Private.Networking.dll">
       <PackagePath>System.Private.Networking.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.365</Modified>
+      <Modified>2015-08-21T13:55:44.502</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
       <PackagePath>System.Private.ServiceModel.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.388</Modified>
+      <Modified>2015-08-21T13:55:45.478</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Private.Uri.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Private.Uri.dll">
       <PackagePath>System.Private.Uri.dll</PackagePath>
-      <Modified>2015-08-14T00:40:19.093</Modified>
+      <Modified>2015-08-21T13:55:41.900</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Context.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Context.dll">
       <PackagePath>System.Reflection.Context.dll</PackagePath>
-      <Modified>2015-08-14T00:40:19.777</Modified>
+      <Modified>2015-08-21T13:55:45.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
-      <Modified>2015-08-14T00:40:57.647</Modified>
+      <Modified>2015-08-21T13:55:50.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.dll">
       <PackagePath>System.Reflection.dll</PackagePath>
-      <Modified>2015-08-14T00:40:57.507</Modified>
+      <Modified>2015-08-21T13:55:51.048</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Emit.dll">
       <PackagePath>System.Reflection.Emit.dll</PackagePath>
-      <Modified>2015-08-14T00:41:29.532</Modified>
+      <Modified>2015-08-21T13:56:08.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
       <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
-      <Modified>2015-08-14T00:41:30.185</Modified>
+      <Modified>2015-08-21T13:56:08.515</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
       <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
-      <Modified>2015-08-14T00:41:29.886</Modified>
+      <Modified>2015-08-21T13:56:02.514</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
       <PackagePath>System.Reflection.Extensions.dll</PackagePath>
-      <Modified>2015-08-14T00:40:58.246</Modified>
+      <Modified>2015-08-21T13:55:51.017</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
       <PackagePath>System.Reflection.Metadata.dll</PackagePath>
-      <Modified>2015-08-14T00:40:58.251</Modified>
+      <Modified>2015-08-21T13:55:54.975</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
       <PackagePath>System.Reflection.Primitives.dll</PackagePath>
-      <Modified>2015-08-14T00:40:58.244</Modified>
+      <Modified>2015-08-21T13:55:51.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
       <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
-      <Modified>2015-08-14T00:41:00.247</Modified>
+      <Modified>2015-08-21T13:55:51.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
       <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
-      <Modified>2015-08-14T00:40:58.201</Modified>
+      <Modified>2015-08-21T13:55:51.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
-      <Modified>2015-08-14T00:41:00.562</Modified>
+      <Modified>2015-08-21T13:55:56.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
       <PackagePath>System.Runtime.Extensions.dll</PackagePath>
-      <Modified>2015-08-14T00:41:00.190</Modified>
+      <Modified>2015-08-21T13:55:54.975</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Handles.dll">
       <PackagePath>System.Runtime.Handles.dll</PackagePath>
-      <Modified>2015-08-14T00:41:00.499</Modified>
+      <Modified>2015-08-21T13:55:54.663</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
       <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
-      <Modified>2015-08-14T00:41:04.440</Modified>
+      <Modified>2015-08-21T13:55:56.170</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
       <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.368</Modified>
+      <Modified>2015-08-21T13:55:45.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
       <PackagePath>System.Runtime.Numerics.dll</PackagePath>
-      <Modified>2015-08-14T00:41:01.051</Modified>
+      <Modified>2015-08-21T13:55:55.069</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
       <PackagePath>System.Runtime.Serialization.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.371</Modified>
+      <Modified>2015-08-21T13:55:44.534</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
       <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.382</Modified>
+      <Modified>2015-08-21T13:55:45.423</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
       <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.358</Modified>
+      <Modified>2015-08-21T13:55:45.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
       <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.367</Modified>
+      <Modified>2015-08-21T13:55:45.376</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
       <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
-      <Modified>2015-08-14T00:40:23.136</Modified>
+      <Modified>2015-08-21T13:55:45.376</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
       <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.378</Modified>
+      <Modified>2015-08-21T13:55:45.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Security.Claims.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Security.Claims.dll">
       <PackagePath>System.Security.Claims.dll</PackagePath>
-      <Modified>2015-08-14T00:41:00.896</Modified>
+      <Modified>2015-08-21T13:55:55.366</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Security.Principal.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Security.Principal.dll">
       <PackagePath>System.Security.Principal.dll</PackagePath>
-      <Modified>2015-08-14T00:41:01.281</Modified>
+      <Modified>2015-08-21T13:55:55.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.dll">
       <PackagePath>System.ServiceModel.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.373</Modified>
+      <Modified>2015-08-21T13:55:44.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
       <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.522</Modified>
+      <Modified>2015-08-21T13:55:45.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
       <PackagePath>System.ServiceModel.Http.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.555</Modified>
+      <Modified>2015-08-21T13:55:45.361</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
       <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.360</Modified>
+      <Modified>2015-08-21T13:55:45.408</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
       <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.970</Modified>
+      <Modified>2015-08-21T13:55:45.645</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
       <PackagePath>System.ServiceModel.Security.dll</PackagePath>
-      <Modified>2015-08-14T00:40:22.380</Modified>
+      <Modified>2015-08-21T13:55:45.479</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
       <PackagePath>System.ServiceModel.Web.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.381</Modified>
+      <Modified>2015-08-21T13:55:44.581</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
-      <Modified>2015-08-14T00:40:23.842</Modified>
+      <Modified>2015-08-21T13:55:47.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Text.Encoding.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Text.Encoding.dll">
       <PackagePath>System.Text.Encoding.dll</PackagePath>
-      <Modified>2015-08-14T00:41:04.086</Modified>
+      <Modified>2015-08-21T13:55:55.428</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
       <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
-      <Modified>2015-08-14T00:41:01.031</Modified>
+      <Modified>2015-08-21T13:55:55.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
       <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
-      <Modified>2015-08-14T00:41:01.028</Modified>
+      <Modified>2015-08-21T13:55:56.153</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Threading.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Threading.dll">
       <PackagePath>System.Threading.dll</PackagePath>
-      <Modified>2015-08-14T00:41:13.969</Modified>
+      <Modified>2015-08-21T13:55:56.186</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
       <PackagePath>System.Threading.Overlapped.dll</PackagePath>
-      <Modified>2015-08-14T00:40:18.883</Modified>
+      <Modified>2015-08-21T13:55:41.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
       <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
-      <Modified>2015-08-14T00:41:13.970</Modified>
+      <Modified>2015-08-21T13:55:56.514</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Tasks.dll">
       <PackagePath>System.Threading.Tasks.dll</PackagePath>
-      <Modified>2015-08-14T00:41:04.078</Modified>
+      <Modified>2015-08-21T13:55:56.201</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
-      <Modified>2015-08-14T00:41:13.967</Modified>
+      <Modified>2015-08-21T13:55:55.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Timer.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Threading.Timer.dll">
       <PackagePath>System.Threading.Timer.dll</PackagePath>
-      <Modified>2015-08-14T00:41:02.694</Modified>
+      <Modified>2015-08-21T13:55:56.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Windows.dll">
       <PackagePath>System.Windows.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.383</Modified>
+      <Modified>2015-08-21T13:55:44.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Xml.dll">
       <PackagePath>System.Xml.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.392</Modified>
+      <Modified>2015-08-21T13:55:44.720</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Xml.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Xml.Linq.dll">
       <PackagePath>System.Xml.Linq.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.394</Modified>
+      <Modified>2015-08-21T13:55:44.876</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
       <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
-      <Modified>2015-08-14T00:41:04.446</Modified>
+      <Modified>2015-08-21T13:55:56.404</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Xml.Serialization.dll">
       <PackagePath>System.Xml.Serialization.dll</PackagePath>
-      <Modified>2015-08-14T00:40:21.396</Modified>
+      <Modified>2015-08-21T13:55:44.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Xml.XDocument.dll">
       <PackagePath>System.Xml.XDocument.dll</PackagePath>
-      <Modified>2015-08-14T00:41:04.090</Modified>
+      <Modified>2015-08-21T13:55:57.592</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
       <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
-      <Modified>2015-08-14T00:40:19.335</Modified>
+      <Modified>2015-08-21T13:55:44.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
-      <Modified>2015-08-14T00:40:23.520</Modified>
+      <Modified>2015-08-21T13:55:47.551</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Carlos\Documents\Repositories\IP\IP\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+    <AppxPackagedFile Include="C:\Users\Suporte\Documents\repositories\IP\IP\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2015-08-09T14:30:31.906</Modified>
+      <Modified>2015-08-20T21:49:26.413</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Threading;
 using System.Threading.Tasks;
 using Windows.Data.Xml;
 using Windows.Foundation;
@@ -30,13 +31,14 @@ namespace IP
     {
         public MainPage()
         {
-            this.InitializeComponent();
-            StartWebRequest();
+            this.InitializeComponent();            
+            TimerCallback callback = StartWebRequest;
+            Timer timer = new Timer(callback, null, 0, 600000);
         }
 
-        void StartWebRequest()
+        void StartWebRequest(Object state)
         {
-            HttpWebRequest request = (HttpWebRequest) HttpWebRequest.Create("http://myexternalip.com/raw");
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://myexternalip.com/raw");
             request.BeginGetResponse(new AsyncCallback(FinishWebRequest), request);
             
         }
@@ -47,8 +49,7 @@ namespace IP
             await Dispatcher.RunAsync(CoreDispatcherPriority.Normal, () =>
             {
                 StreamReader stream = new StreamReader(response.GetResponseStream());
-                var ip = stream.ReadToEnd();
-                textBox.Text = ip;
+                var ip = stream.ReadToEnd();                
                 UpdateTile(ip);
             });           
         }
@@ -58,10 +59,9 @@ namespace IP
             var updater = TileUpdateManager.CreateTileUpdaterForApplication();
             updater.EnableNotificationQueue(true);
             updater.Clear();
-            Windows.Data.Xml.Dom.XmlDocument tileXml = TileUpdateManager.GetTemplateContent(TileTemplateType.TileWide310x150Text05);            
+            Windows.Data.Xml.Dom.XmlDocument tileXml = TileUpdateManager.GetTemplateContent(TileTemplateType.TileWide310x150Text06);
             tileXml.GetElementsByTagName("text")[0].InnerText = infoString;
             updater.Update(new TileNotification(tileXml));
-
         }
     }
 }
